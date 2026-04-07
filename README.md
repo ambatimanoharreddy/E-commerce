@@ -56,10 +56,6 @@ The dataset contains:
 * Nokia Smart Phone
 * Canon Copier
 
-## 📸 Dashboard Preview
-## 📸 Dashboard Preview
-![Dashboard](Pictures/dashboard.png)
-
 ## 🚀 How to Use
 1. Download the `.pbix` file
 2. Open in Power BI Desktop
