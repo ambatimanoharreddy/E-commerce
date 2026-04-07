@@ -24,54 +24,32 @@ The dataset contains:
 * Geographic data (country, region, market)
 
 ## 📊 Dashboard Features
-
 ### 🔢 KPI Metrics
-
 * **Total Sales:** 12.64M
 * **Total Profit:** 1.47M
 * **Total Quantity:** 178K
 * **Total Shipping Cost:** 1.35M
 * **Profit Margin:** 11.61%
 
----
-
 ### 🌍 Sales Analysis
-
 * **Top Country:** United States (2.3M sales)
 * Other key countries: Australia, France, China, Germany
 
----
-
 ### 👥 Customer Segmentation
-
 * **Consumer Segment:** Highest sales (0.65M)
 * Followed by Corporate and Home Office
 
----
-
-### 📦 Category Performance
-
-* **Technology:** Highest sales (4.7M)
+### 📦 Category Performance* **Technology:** Highest sales (4.7M)
 * Followed by Furniture and Office Supplies
 
----
-
-### 🚚 Shipping Analysis
-
-* **Standard Class:** Most used (7.58M sales)
+### 🚚 Shipping Analysis* **Standard Class:** Most used (7.58M sales)
 * Other modes: Second Class, First Class, Same Day
 
----
-
 ### 📈 Sales Trend
-
 * Sales show a **steady growth over time (2011–2014)**
 * Peak sales reached around **0.50M+**
 
----
-
 ### 🏆 Top Products
-
 * Apple Smart Phone (Full Size)
 * Cisco Smart Phone (Full Size)
 * Motorola Smart Phone
@@ -79,7 +57,8 @@ The dataset contains:
 * Canon Copier
 
 ## 📸 Dashboard Preview
-
+## 📸 Dashboard Preview
+![Dashboard](Pictures/dashboard.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
